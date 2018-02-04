@@ -1,0 +1,72 @@
+body {
+  font-family: 'Raleway', Raleway, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  color: #111111;
+  line-height: 1.4;
+}
+
+.about-h1 {
+  text-align: left;
+  text-transform: lowercase;
+  font-size: 40px;
+  line-height: 1.4;
+  font-weight: 900;
+}
+.about-div {
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+}
+
+.about-br {
+  padding-top: 40px;
+  padding-left: 40px;}
+}
+.a-h3 {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.6;
+  text-aligh: center;
+}
+
+.a-table {
+  background-color: #f4f4f4;
+  border: 1px solid white;
+  width: 85%;
+}
+.a-td {
+  width: 33.3333%;
+  padding: 10px;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 1.4;
+  text-align: center;
+
+}
+
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+
+.half-size {
+  width: 50%;
+}
+
+#services,#biography {
+  padding: 60px;
+}
+
+#quote {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  font-style: italic;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: 'Merriweather';
+}
